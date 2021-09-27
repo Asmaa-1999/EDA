@@ -1,4 +1,4 @@
-## Analysis of the Metropolitan Transportation Authority Turnstile Data  
+# Analysis of the Metropolitan Transportation Authority Turnstile Data  
 
 The goal of this project is to analyze the Metropolitan Transportation Authority (MTA) Turnstile Data to see which stations have a lot of people to help the Café chain to determine the places where they will open new branches.
 
