@@ -24,3 +24,10 @@ I will add more features which are:
 
 ## Tools
 The tools I will use are SQLite to store data in a database. Jupyter Notebook to use Python language to clean, analyze and visualize the data.
+
+## References
+[1] 	[Online]. Available: https://new.mta.info/about-us.
+[2] 	[Online]. Available: http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt.
+
+
+
