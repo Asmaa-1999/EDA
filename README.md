@@ -1,7 +1,9 @@
-# EDA
+# Metropolitan Transportation Authority Turnstile Exploratory Data Analysis
+
 ## Introduction
 The Metropolitan Transportation Authority (MTA) is North America's largest transportation network. The MTA network comprises the nation’s largest bus fleet and more subway and commuter rail cars than all other U.S. transit systems combined [1]. 
 Café chain wants to open new branches in New York. I will analyze the MTA Turnstile Data to see which stations have a lot of people. This analysis will help the Café chain to determine the places where it will open new branches.
+
 ## Data Description
 The data I will use is MTA Turnstile Data will obtain from http://web.mta.info/developers/turnstile.html.
 The data was collected from May 2010 to September 2021. I will take a sample of the data, which is the latest three months: August, July, June.
