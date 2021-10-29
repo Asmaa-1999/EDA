@@ -27,6 +27,7 @@ The tools I will use are SQLite to store data in a database. Jupyter Notebook to
 
 ## References
 [1] 	[Online]. Available: https://new.mta.info/about-us.
+
 [2] 	[Online]. Available: http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt.
 
 
